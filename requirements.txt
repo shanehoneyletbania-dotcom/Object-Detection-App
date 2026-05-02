@@ -1,0 +1,11 @@
+streamlit==1.33.0
+streamlit-webrtc==0.47.7
+ultralytics
+opencv-python-headless
+av
+torch
+torchvision
+numpy
+pillow
+scipy
+matplotlib
